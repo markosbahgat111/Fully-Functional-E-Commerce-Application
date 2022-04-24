@@ -10,6 +10,11 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a good understanding of HTML, CSS and JavaScript.**
 
+# Live Demo - Preview E-commerce Appliction
+### You can preview this app by scanning this code and download the "Expo Go" App it's a free hosting that host my app for preview.
+![Scan This QRCode For Preview](./src/assets/design/qrcode.png)
+
+
 ## The challenge
 
 Your challenge is to build out this e-commerce product page and get it looking as close to the design as possible.
